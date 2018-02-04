@@ -1,18 +1,8 @@
 ---
 layout: page
-title: research
+title: 
 description: Karl Broman's publications
 ---
-
-<div class="navbar">
-    <div class="navbar-inner">
-        <ul class="nav">
-            <li><a href="#articles">articles</a></li>
-            <li><a href="#techreports">technical reports</a></li>
-            <li><a href="#presentposter">Presentations and posters</a></li>
-        </ul>
-    </div>
-</div>
 
 ## <a name="articles"></a>Journal articles
 
