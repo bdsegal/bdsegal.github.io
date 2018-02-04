@@ -24,7 +24,7 @@ Burgard, S., Lin, K., and **Segal, B. D.** Clustering, stability, and change in 
 
 Invited talk: "P-splines with an l1 penalty for repeated measures." Statistical learning and data science/nonparametric statistics conference, June 2018.
 
-Contributed poster: "Tests of matrix structure for construct validation." Michigan Student Symposium for Interdisciplinary Statistical Sciences (MSSISS), Mar 2017 (won best poster from Biostatistics department).
+Contributed poster (winner of best poster from Biostatistics department): "Tests of matrix structure for construct validation." Michigan Student Symposium for Interdisciplinary Statistical Sciences (MSSISS), Mar 2017.
 
 Contributed poster: "P-splines with an l1 penalty for repeated measures." ENAR, Mar 2017.
 
