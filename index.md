@@ -5,27 +5,16 @@ description: Brian D. Segal is a quantitative scientist at Flatiron Health
 keywords: Brian D. Segal, statistics
 ---
 
-<div class="navbar">
-  <div class="navbar-inner">
-      <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/bdsegal_cv.pdf">cv</a></li>
-          <li><a href="https://github.com/bdsegal">github</a></li>
-          <li><a href="https://www.linkedin.com/in/bdsegal">linkedin</a></li>
-      </ul>
-  </div>
-</div>
+I am a Quantitative Scientist at [Flatiron Health](http://www.flatiron.com), where I design and analyze studies to assess the quality of data abstracted from electronic health records. Prior to joining Flatiron, I finished a PhD in <a href = "https://sph.umich.edu/biostat/"> Biostatistics at the University of Michigan</a>, advised by <a href = "https://sph.umich.edu/faculty-profiles/elliott-michael.html"> Michael Elliott</a>, <a href = "https://sph.umich.edu/faculty-profiles/braun-thomas.html"> Tom Braun</a>, and <a href = "http://www-personal.umich.edu/~jianghui/"> Hui Jiang</a>. My research interests include resampling methods, semi-parametric regression, and alternatives to hypothesis testing. I am also interested in applications in a variety of fields, including medicine and psychology.
 
-Brian Segal is a Quantitative Scientist at [Flatiron Health](http://www.flatiron.com).
-
-
-[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/bdsegal_cv.pdf)<br/>
-[orcid](http://orcid.org): [0000-0002-2568-2541](http://orcid.org/0000-0002-2568-2541)<br/>
+You can [download my CV]({{ BASE_PATH }}/assets/bdsegal_cv.pdf)<br/>
+<!-- [orcid](http://orcid.org): [0000-0002-2568-2541](http://orcid.org/0000-0002-2568-2541)<br/> -->
 
 
 ---
 
 <div class="container">
-<h4><a name="contact"></a>contact</h4>
+<h4><a name="contact"></a>Contact</h4>
 
     <div class="row-fluid">
         <div class="span5">
@@ -33,15 +22,15 @@ Brian Segal is a Quantitative Scientist at [Flatiron Health](http://www.flatiron
             <a href="http://www.flatiron.com"> Flatiron Health</a><br/>
 
             <div id="hide_email">
-            Email: <code>bseg</code><b>I</b><code>al</code><b>don't</b><code>@</code><b>want</b><code>bio</code><b>spam!
-            </b><code>stat</code><b>So</b><code>.</code><b>please</b><code>flat</code><b>leave
-            </b><code>iron</code><b>me</b><code>.</code><b>alone</b><code>c</code><b>!</b><code>om</code><br/>
+            Email: <code>bsegal@flatiron.com</code><br/>
             Phone: 202-870-4049
+            <a href="https://github.com/bdsegal">github.com/bdsegal</a>
+            <a href="https://www.linkedin.com/in/bdsegal">www.linkedin.com/in/bdsegal</a>
             </div>
         </div>
 
         <div class="span2">
-        <a href="../assets/pics/karl_2014-03-30.jpg">
+        <a href="../assets/pics/bdsegal.jpg">
             <img src="../assets/pics/bdsegal.jpg"
                   title="Brian Segal" alt="Brian Segal"/></a>
         </div>
