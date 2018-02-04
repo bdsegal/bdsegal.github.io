@@ -8,7 +8,7 @@ description: research
 
 **Segal, B. D.**, Braun, T., Elliott, M. R. and Jiang, H. (2017). Fast approximation of small p-values in permutation tests by partitioning the permutations. Biometrics. [doi:10.1111/biom.12731](http://dx.doi.org/10.1111/biom.12731)
 
-### Submitted
+### *Submitted*
 
 **Segal, B. D.**, Elliott M., Braun T., and Jiang, H.  P-splines with an $\ell_1$ penalty for repeated measures. [arXiv:1707.08933](https://arxiv.org/abs/1707.08933). (Revise and resubmit).
 
@@ -16,17 +16,17 @@ Burgard, S., Lin, K., and **Segal, B. D.** Clustering, stability, and change in 
 
 **Segal, B. D.**, Braun, T., Gonzalez, R., and Elliott, M. R. Tests of matrix structure for construct validation.
 
-### In preparation
+### *In preparation*
 
 **Segal, B. D.** Exceedance probability for parameter estimates.
 
 ## Presentations and posters
 
-Invited talk: "P-splines with an $\ell_1$ penalty for repeated measures." Statistical learning and data science/nonparametric statistics conference, June 2018.
+Invited talk: "P-splines with an l1 penalty for repeated measures." Statistical learning and data science/nonparametric statistics conference, June 2018.
 
 Contributed poster: "Tests of matrix structure for construct validation." Michigan Student Symposium for Interdisciplinary Statistical Sciences (MSSISS), Mar 2017 (won best poster from Biostatistics department).
 
-Contributed poster: "P-splines with an $\ell_1$ penalty for repeated measures." ENAR, Mar 2017.
+Contributed poster: "P-splines with an l1 penalty for repeated measures." ENAR, Mar 2017.
 
 Contributed talk (winner of travel award): Fast approximation of small p-values in permutation tests by partitioning the permutation space." JSM Biometrics section student paper awards session, Aug 2016.
 
