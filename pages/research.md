@@ -1,10 +1,10 @@
 ---
 layout: page
 title: 
-description: Karl Broman's publications
+description: research
 ---
 
-## <a name="articles"></a>Journal articles
+## Journal articles
 
 **Segal, B. D.**, Braun, T., Elliott, M. R. and Jiang, H. (2017). Fast approximation of small p-values in permutation tests by partitioning the permutations. Biometrics. [doi:10.1111/biom.12731](http://dx.doi.org/10.1111/biom.12731)
 
@@ -20,5 +20,6 @@ Burgard, S., Lin, K., and **Segal, B. D.** Clustering, stability, and change in 
 
 **Segal, B. D.** Exceedance probability for parameter estimates.
 
-## <a name="presentposter"></a>Presentations and posters
-## <a name="techreports"></a>Technical reports
+## Presentations and posters
+
+## Technical reports
