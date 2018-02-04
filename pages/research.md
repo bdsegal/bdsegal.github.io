@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Papers, presentations, and posters
+title: Research
 description: research
 ---
 
