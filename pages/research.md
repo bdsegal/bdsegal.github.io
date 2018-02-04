@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Papers, presentations, and posters
 description: research
 ---
 
@@ -10,9 +10,9 @@ description: research
 
 ### *Submitted*
 
-**Segal, B. D.**, Elliott M., Braun T., and Jiang, H.  P-splines with an $\ell_1$ penalty for repeated measures. [arXiv:1707.08933](https://arxiv.org/abs/1707.08933). (Revise and resubmit).
+**Segal, B. D.**, Elliott M., Braun T., and Jiang, H.  P-splines with an l1 penalty for repeated measures. *Under revision* [arXiv:1707.08933](https://arxiv.org/abs/1707.08933).
 
-Burgard, S., Lin, K., and **Segal, B. D.** Clustering, stability, and change in tobacco and alcohol use and BMI among older U.S. adults. (Revise and resubmit)
+Burgard, S., Lin, K., and **Segal, B. D.** Clustering, stability, and change in tobacco and alcohol use and BMI among older U.S. adults. *Under revision*.
 
 **Segal, B. D.**, Braun, T., Gonzalez, R., and Elliott, M. R. Tests of matrix structure for construct validation.
 
