@@ -1,8 +1,8 @@
 ---
 layout: frontpage
 title: Brian D. Segal
-description: Brian D. Segal is a quantitative scientist at Flatiron Health
-keywords: Brian D. Segal, statistics
+description: Brian Segal is a quantitative scientist at Flatiron Health.
+keywords: Brian D. Segal, statistics, biostatistics
 ---
 
 <div class="container">
@@ -10,7 +10,7 @@ keywords: Brian D. Segal, statistics
         <div class="span7">
             I am a quantitative scientist at <a href = "http://www.flatiron.com"> Flatiron Health</a>, where I design and analyze studies to assess the quality of data abstracted from electronic health records. Prior to joining Flatiron, I completed a PhD in <a href = "https://sph.umich.edu/biostat/"> Biostatistics at the University of Michigan</a>, advised by <a href = "https://sph.umich.edu/faculty-profiles/elliott-michael.html"> Michael Elliott</a>, <a href = "https://sph.umich.edu/faculty-profiles/braun-thomas.html"> Tom Braun</a>, and <a href = "http://www-personal.umich.edu/~jianghui/"> Hui Jiang</a>.<br>
             <br>
-            My research interests include resampling methods, semi-parametric regression, longitudinal analysis, and alternatives to hypothesis testing that emphasize estimation. I am also interested in applications in a variety of fields, including medicine, the life sciences, sociology, and psychology. You can find more information on my <a href = "{{ BASE_PATH }}/pages/research.html">research page</a> or by <a href = "{{ BASE_PATH }}/assets/bdsegal_cv.pdf"> downloading my CV</a>.
+            My research interests include computationally efficient resampling methods, non-parametric and semi-parametric regression, longitudinal analysis, and estimation-based alternatives to hypothesis testing. I am also interested in applications in a variety of fields, including medicine, life sciences, sociology, psychology, and the environment. You can find more information on my <a href = "{{ BASE_PATH }}/pages/research.html">research page</a> or by <a href = "{{ BASE_PATH }}/assets/bdsegal_cv.pdf"> downloading my CV</a>.
         </div>
 
         <div class="span2">
