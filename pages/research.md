@@ -20,7 +20,7 @@ Burgard, S., Lin, K., and **Segal, B. D.** Clustering, stability, and change in 
 
 **Segal, B. D.** Exceedance probability for parameter estimates.
 
-## Presentations and posters
+## Talks and posters
 
 Invited talk (upcoming): "P-splines with an l1 penalty for repeated measures." Statistical learning and data science/nonparametric statistics conference, June 2018.
 
@@ -43,7 +43,3 @@ Greco, S., Smith, J., **Segal, B. D.**, Post, E., Lynch, M., Hattis, D. Evaluati
 Greco, S., Acquaye, A., Peak, K., **Segal, B. D.**, Rast, M. Framework for estimating costs and benefits associated with changes in the reference dose at federal facility hazardous waste sites. US EPA, Oct 2008.
 
 **Segal, B. D.** Biofilm forming properties of the ammonia oxidizing bacteria Nitrosomonas europaea. Undergraduate research project. Department of Civil and Environmental Engineering, Virginia Tech, May 2007.
-
-## Software
-
-[fastPerm](https://github.com/bdsegal/fastPerm): R package for quickly approximating small p-values in permutation tests.
