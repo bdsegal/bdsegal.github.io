@@ -6,7 +6,7 @@ description: research
 
 ## Publications
 
-**Segal, B. D.**, Braun, T., Elliott, M. R. and Jiang, H. (2017). Fast approximation of small p-values in permutation tests by partitioning the permutations. Biometrics. [doi:10.1111/biom.12731](http://dx.doi.org/10.1111/biom.12731) (non-final version available at [arXiv:1605.03992](https://arxiv.org/abs/1605.03992)).
+**Segal, B. D.**, Braun, T., Elliott, M. R. and Jiang, H. (2018). Fast approximation of small p-values in permutation tests by partitioning the permutations. Biometrics, 74: 196-206. [doi:10.1111/biom.12731](http://dx.doi.org/10.1111/biom.12731) (non-final version available at [arXiv:1605.03992](https://arxiv.org/abs/1605.03992)).
 
 ### *Submitted*
 
