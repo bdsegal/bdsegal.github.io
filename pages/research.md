@@ -12,7 +12,7 @@ description: research
 
 **Segal, B. D.**, Elliott M., Braun T., and Jiang, H.  P-splines with an l1 penalty for repeated measures. [arXiv:1707.08933](https://arxiv.org/abs/1707.08933). (Under revision).
 
-Burgard, S. A., Lin, K. Y., **Segal, B. D.**, Elliott, M. R., and Seelye, S. S. Stability and change in health risk behaviorpProfiles of U.S. adults. (Under revision).
+Burgard, S. A., Lin, K. Y., **Segal, B. D.**, Elliott, M. R., and Seelye, S. S. Stability and change in health risk behavior profiles of U.S. adults. (Under revision).
 
 **Segal, B. D.**, Braun, T., Gonzalez, R., and Elliott, M. R. Tests of matrix structure for construct validation. (Under revision).
 
