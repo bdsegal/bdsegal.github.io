@@ -8,19 +8,25 @@ description: research
 
 **Segal, B. D.**, Braun, T., Elliott, M. R. and Jiang, H. (2018). Fast approximation of small p-values in permutation tests by partitioning the permutations. Biometrics, 74: 196-206. [doi:10.1111/biom.12731](http://dx.doi.org/10.1111/biom.12731) (non-final version available at [arXiv:1605.03992](https://arxiv.org/abs/1605.03992)).
 
+### *In press*
+
+Burgard, S. A., Lin, K. Y., **Segal, B. D.**, Elliott, M. R., and Seelye, S. S. Stability and change in health risk behavior profiles of U.S. adults. Journal of Gerontology: Social Sciences.
+
+**Segal, B. D.**, Bennette, C. Re: "Transportability of trial results using inverse odds of sampling weights." American Journal of Epidemiology.
+
 ### *Submitted*
 
-**Segal, B. D.**, Elliott M., Braun T., and Jiang, H.  P-splines with an l1 penalty for repeated measures. [arXiv:1707.08933](https://arxiv.org/abs/1707.08933). (Under revision).
+**Segal, B. D.**, Elliott M., Braun T., and Jiang, H.  P-splines with an l1 penalty for repeated measures. [arXiv:1707.08933](https://arxiv.org/abs/1707.08933). (Under second round of review).
 
-Burgard, S. A., Lin, K. Y., **Segal, B. D.**, Elliott, M. R., and Seelye, S. S. Stability and change in health risk behavior profiles of U.S. adults. (Under revision).
-
-**Segal, B. D.**, Braun, T., Gonzalez, R., and Elliott, M. R. Tests of matrix structure for construct validation. (Under revision).
+**Segal, B. D.**, Braun, T., Gonzalez, R., and Elliott, M. R. Tests of matrix structure for construct validation. (Under second round of review).
 
 **Segal, B. D.** Exceedance probability for parameter estimates. [arxiv:1803.03356](https://arxiv.org/abs/1803.03356).
 
 ## Talks and posters
 
-Invited talk (upcoming): "P-splines with an l1 penalty for repeated measures." Statistical learning and data science/nonparametric statistics conference, June 2018.
+Contributed talk: "Exceedance probability for parameter estimates." JSM, July 2018.
+
+Invited talk: "P-splines with an l1 penalty for repeated measures." Statistical learning and data science/nonparametric statistics conference, June 2018.
 
 Contributed poster (winner of best poster from Biostatistics department): "Tests of matrix structure for construct validation." Michigan Student Symposium for Interdisciplinary Statistical Sciences (MSSISS), Mar 2017.
 
