@@ -20,6 +20,7 @@ Burgard, S. A., Lin, K. Y., **Segal, B. D.**, Elliott, M. R., and Seelye, S. S. 
 
 **Segal, B. D.**, Braun, T., Gonzalez, R., and Elliott, M. R. Tests of matrix structure for construct validation. (Under second round of review).
 
+### *In preparation*
 **Segal, B. D.** Exceedance probability for parameter estimates. [arxiv:1803.03356](https://arxiv.org/abs/1803.03356).
 
 ## Talks and posters
