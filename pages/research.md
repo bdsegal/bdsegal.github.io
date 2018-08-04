@@ -6,11 +6,11 @@ description: research
 
 ## Publications
 
+Burgard, S. A., Lin, K. Y., **Segal, B. D.**, Elliott, M. R., and Seelye, S. S. (2018). Stability and change in health risk behavior profiles of U.S. adults. Journal of Gerontology: Series B. [doi.org/10.1093/geronb/gby088](https://doi.org/10.1093/geronb/gby088)
+
 **Segal, B. D.**, Braun, T., Elliott, M. R. and Jiang, H. (2018). Fast approximation of small p-values in permutation tests by partitioning the permutations. Biometrics, 74: 196-206. [doi:10.1111/biom.12731](http://dx.doi.org/10.1111/biom.12731) (non-final version available at [arXiv:1605.03992](https://arxiv.org/abs/1605.03992)).
 
 ### *In press*
-
-Burgard, S. A., Lin, K. Y., **Segal, B. D.**, Elliott, M. R., and Seelye, S. S. Stability and change in health risk behavior profiles of U.S. adults. Journal of Gerontology: Social Sciences.
 
 **Segal, B. D.**, Bennette, C. Re: "Transportability of trial results using inverse odds of sampling weights." American Journal of Epidemiology.
 
@@ -21,7 +21,7 @@ Burgard, S. A., Lin, K. Y., **Segal, B. D.**, Elliott, M. R., and Seelye, S. S. 
 **Segal, B. D.**, Braun, T., Gonzalez, R., and Elliott, M. R. Tests of matrix structure for construct validation. (Under second round of review).
 
 ### *In preparation*
-**Segal, B. D.** Exceedance probability for parameter estimates. [arxiv:1803.03356](https://arxiv.org/abs/1803.03356).
+**Segal, B. D.** Exceedance probability for parameter estimates. [arXiv:1803.03356](https://arxiv.org/abs/1803.03356).
 
 ## Talks and posters
 
