@@ -12,7 +12,7 @@ Burgard, S. A., Lin, K. Y., **Segal, B. D.**, Elliott, M. R., and Seelye, S. S. 
 
 ### *In press*
 
-**Segal, B. D.**, Bennette, C. Re: "Transportability of trial results using inverse odds of sampling weights." American Journal of Epidemiology.
+**Segal, B. D.**, Bennette, C. S. Re: "Transportability of trial results using inverse odds of sampling weights." American Journal of Epidemiology.
 
 ### *Submitted*
 
