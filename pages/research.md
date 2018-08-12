@@ -7,17 +7,17 @@ description: research
 ## Publications
 
 ### *Accepted*
-Burgard, S. A., Lin, K. Y., **Segal, B. D.**, Elliott, M. R., and Seelye, S. S. (2018). Stability and change in health risk behavior profiles of U.S. adults. Journal of Gerontology: Series B. [doi.org/10.1093/geronb/gby088](https://doi.org/10.1093/geronb/gby088)
+Burgard, S. A., Lin, K. Y., **Segal, B. D.**, Elliott, M. R., and Seelye, S. S. (2018). Stability and change in health risk behavior profiles of U.S. adults. Journal of Gerontology: Series B. [doi.org/10.1093/geronb/gby088](https://doi.org/10.1093/geronb/gby088).
 
-**Segal, B. D.**, Braun, T., Elliott, M. R. and Jiang, H. (2018). Fast approximation of small p-values in permutation tests by partitioning the permutations. Biometrics, 74: 196-206. [doi:10.1111/biom.12731](http://dx.doi.org/10.1111/biom.12731) (non-final version available at [arXiv:1605.03992](https://arxiv.org/abs/1605.03992)).
+**Segal, B. D.**, Braun, T., Elliott, M. R. and Jiang, H. (2018). Fast approximation of small p-values in permutation tests by partitioning the permutations. Biometrics, 74: 196-206. [doi:10.1111/biom.12731](http://dx.doi.org/10.1111/biom.12731).
 
 **Segal, B. D.**, Bennette, C. S. Re: "Transportability of trial results using inverse odds of sampling weights." American Journal of Epidemiology (In press).
 
 ### *Under review*
 
-**Segal, B. D.**, Elliott M., Braun T., and Jiang, H.  P-splines with an l1 penalty for repeated measures. [arXiv:1707.08933](https://arxiv.org/abs/1707.08933). (Under second round of review).
+**Segal, B. D.**, Elliott M., Braun T., and Jiang, H.  P-splines with an l1 penalty for repeated measures. [arXiv:1707.08933](https://arxiv.org/abs/1707.08933) (Under second round of review).
 
-**Segal, B. D.**, Braun, T., Gonzalez, R., and Elliott, M. R. Tests of matrix structure for construct validation. (Under second round of review).
+**Segal, B. D.**, Braun, T., Gonzalez, R., and Elliott, M. R. Tests of matrix structure for construct validation (Under second round of review).
 
 ### *In preparation*
 **Segal, B. D.** Exceedance probability for parameter estimates. [arXiv:1803.03356](https://arxiv.org/abs/1803.03356).
