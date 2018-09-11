@@ -11,7 +11,7 @@ Burgard, S. A., Lin, K. Y., **Segal, B. D.**, Elliott, M. R., and Seelye, S. S. 
 
 **Segal, B. D.**, Braun, T., Elliott, M. R. and Jiang, H. (2018). Fast approximation of small p-values in permutation tests by partitioning the permutations. Biometrics, 74: 196-206. [doi:10.1111/biom.12731](http://dx.doi.org/10.1111/biom.12731).
 
-**Segal, B. D.**, Bennette, C. S. Re: "Transportability of trial results using inverse odds of sampling weights." American Journal of Epidemiology (In press).
+**Segal, B. D.**, Bennette, C. S. (2018). Re: "Transportability of trial results using inverse odds of sampling weights." American Journal of Epidemiology. [doi.org/10.1093/aje/kwy190](https://doi.org/10.1093/aje/kwy190).
 
 ### *Under review*
 
@@ -21,6 +21,12 @@ Burgard, S. A., Lin, K. Y., **Segal, B. D.**, Elliott, M. R., and Seelye, S. S. 
 
 ### *In preparation*
 **Segal, B. D.** Exceedance probability for parameter estimates. [arXiv:1803.03356](https://arxiv.org/abs/1803.03356).
+
+Duren, D. L., **Segal, B. D.**, Elliott, M. R., Tosi, L., Sherwood, R. J., and Jepsen, K. J. Are human bones adapting to a new normal?
+
+Bennette, C. S., **Segal, B. D.**, Schrag, D., Miksad, R., Higashi, M., Bellomo, L., Khozin, S., Nussbaum, N., Capra, B., Sarkar, S., Sharon, E., Tucker, M., Schneeweiss, S., and Abernethy, A. Use of curated electronic health records database to create external control arms for cancer clinical trials.
+
+Bennette, C. S., Nussbaum, N., Khozin, S., **Segal, B. D.**, Schrag, D., Miksad, R., Higashi, M., Tucker, M., Sharon, E., Capra, B., and Abernethy, A. Generating external control arms using real-world data in oncology: Analytic challenges and recommendations.
 
 ## Talks and posters
 
