@@ -7,6 +7,8 @@ description: research
 ## Publications
 
 ### *Accepted*
+**Segal, B. D.**, Elliott M., Braun T., and Jiang, H. (to appear).  P-splines with an l1 penalty for repeated measures. Electronic Journal of Statistics. [arXiv:1707.08933](https://arxiv.org/abs/1707.08933)
+
 Burgard, S. A., Lin, K. Y., **Segal, B. D.**, Elliott, M. R., and Seelye, S. S. (2018). Stability and change in health risk behavior profiles of U.S. adults. Journal of Gerontology: Series B. [doi.org/10.1093/geronb/gby088](https://doi.org/10.1093/geronb/gby088).
 
 **Segal, B. D.**, Braun, T., Elliott, M. R. and Jiang, H. (2018). Fast approximation of small p-values in permutation tests by partitioning the permutations. Biometrics, 74: 196-206. [doi:10.1111/biom.12731](http://dx.doi.org/10.1111/biom.12731).
@@ -15,12 +17,10 @@ Burgard, S. A., Lin, K. Y., **Segal, B. D.**, Elliott, M. R., and Seelye, S. S. 
 
 ### *Under review*
 
-**Segal, B. D.**, Elliott M., Braun T., and Jiang, H.  P-splines with an l1 penalty for repeated measures. [arXiv:1707.08933](https://arxiv.org/abs/1707.08933) (Under second round of review).
-
 **Segal, B. D.**, Braun, T., Gonzalez, R., and Elliott, M. R. Tests of matrix structure for construct validation (Under second round of review).
 
 ### *In preparation*
-**Segal, B. D.** Exceedance probability for parameter estimates. [arXiv:1803.03356](https://arxiv.org/abs/1803.03356).
+**Segal, B. D.** Towards replicability with confidence intervals for the exceedance probability. [arXiv:1803.03356](https://arxiv.org/abs/1803.03356).
 
 Duren, D. L., **Segal, B. D.**, Elliott, M. R., Tosi, L., Sherwood, R. J., and Jepsen, K. J. Are human bones adapting to a new normal?
 
