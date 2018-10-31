@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Teaching
-description: teaching
+title: Teaching/Tutorials
+description: teaching/tutorials
 ---
 
 [Introduction to interval censoring](https://bdsegal.github.io/assets/interval_censoring.pdf), Flatiron Health, Aug 2017
