@@ -15,13 +15,12 @@ Burgard, S. A., Lin, K. Y., **Segal, B. D.**, Elliott, M. R., and Seelye, S. S. 
 
 **Segal, B. D.**, Bennette, C. S. (2018). Re: "Transportability of trial results using inverse odds of sampling weights." American Journal of Epidemiology. [doi.org/10.1093/aje/kwy190](https://doi.org/10.1093/aje/kwy190).
 
-### *Under review*
+**Segal, B. D.**, Braun, T., Gonzalez, R., and Elliott, M. R. (in press). Tests of matrix structure for construct validation. Psychometrika.
 
-**Segal, B. D.**, Braun, T., Gonzalez, R., and Elliott, M. R. Tests of matrix structure for construct validation (Under second round of review).
-
-### *In preparation*
+### *Submitted*
 **Segal, B. D.** Towards replicability with confidence intervals for the exceedance probability. [arXiv:1803.03356](https://arxiv.org/abs/1803.03356).
 
+### *In preparation*
 Duren, D. L., **Segal, B. D.**, Elliott, M. R., Tosi, L., Sherwood, R. J., and Jepsen, K. J. Are human bones adapting to a new normal?
 
 Bennette, C. S., **Segal, B. D.**, Schrag, D., Miksad, R., Higashi, M., Bellomo, L., Khozin, S., Nussbaum, N., Capra, B., Sarkar, S., Sharon, E., Tucker, M., Schneeweiss, S., and Abernethy, A. Use of curated electronic health records database to create external control arms for cancer clinical trials.
