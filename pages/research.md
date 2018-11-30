@@ -15,7 +15,7 @@ Burgard, S. A., Lin, K. Y., **Segal, B. D.**, Elliott, M. R., and Seelye, S. S. 
 
 **Segal, B. D.**, Bennette, C. S. (2018). Re: "Transportability of trial results using inverse odds of sampling weights." American Journal of Epidemiology. [doi.org/10.1093/aje/kwy190](https://doi.org/10.1093/aje/kwy190).
 
-**Segal, B. D.**, Braun, T., Gonzalez, R., and Elliott, M. R. (in press). Tests of matrix structure for construct validation. Psychometrika.
+**Segal, B. D.**, Braun, T., Gonzalez, R., and Elliott, M. R. (2018). Tests of matrix structure for construct validation. Psychometrika. [doi.org/10.1007/s11336-018-9647-4](https://doi.org/10.1007/s11336-018-9647-4). (open-access [view-only version](https://rdcu.be/bb49z)).
 
 ### *Submitted*
 **Segal, B. D.** Towards replicability with confidence intervals for the exceedance probability. [arXiv:1803.03356](https://arxiv.org/abs/1803.03356).
