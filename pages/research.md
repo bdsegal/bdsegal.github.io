@@ -20,12 +20,12 @@ Burgard, S. A., Lin, K. Y., **Segal, B. D.**, Elliott, M. R., and Seelye, S. S. 
 ### *Submitted*
 **Segal, B. D.** Towards replicability with confidence intervals for the exceedance probability. [arXiv:1803.03356](https://arxiv.org/abs/1803.03356).
 
+Bennette, C. S., **Segal, B. D.**, Miksad, R. A., Bellomo, L. P., Nussbaum, N. C., Sarkar, S., Tucker, M., Curtis, M., Anirban, B., Schrag, D., Capra, W. B., Whipple, S., and Abernethy, A. P. Use of a curated electronic health records database to create external control arms for cancer clinical trials.
+
+Bennette, C. S., **Segal, B. D.**, Miksad, R. A., Bellomo, L. P., Nussbaum, N. C., Sarkar, S., Tucker, M., Curtis, M., Basu, A., Schrag, D., Capra, W. B., Whipple, S., Abernathy, A. P. Generating external control arms using real-world data in oncology: Analytic challenges and recommendations.
+
 ### *In preparation*
 Duren, D. L., **Segal, B. D.**, Elliott, M. R., Tosi, L., Sherwood, R. J., and Jepsen, K. J. Are human bones adapting to a new normal?
-
-Bennette, C. S., **Segal, B. D.**, Schrag, D., Miksad, R., Higashi, M., Bellomo, L., Khozin, S., Nussbaum, N., Capra, B., Sarkar, S., Sharon, E., Tucker, M., Schneeweiss, S., and Abernethy, A. Use of curated electronic health records database to create external control arms for cancer clinical trials.
-
-Bennette, C. S., Nussbaum, N., Khozin, S., **Segal, B. D.**, Schrag, D., Miksad, R., Higashi, M., Tucker, M., Sharon, E., Capra, B., and Abernethy, A. Generating external control arms using real-world data in oncology: Analytic challenges and recommendations.
 
 ## Talks and posters
 
