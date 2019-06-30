@@ -6,6 +6,13 @@ description: research
 
 ## Publications
 
+### *Under review*
+Bennette, C. S., **Segal, B. D.**, Miksad, R. A., Bellomo, L. P., Nussbaum, N. C., Sarkar, S., Tucker, M., Schrag, D., Capra, W. B., Whipple, S., Abernethy, A. P. Use of a curated electronic health records database to create external control arms for cancer clinical trials.
+
+Bennette, C. S., **Segal, B. D.**, Miksad, R. A., Bellomo, L. P., Nussbaum, N. C., Sarkar, S., Tucker, M., Curtis, M., Basu, A., Schrag, D., Capra, W. B., Whipple, S., Abernethy, A. P. Generating external control arms using real-world data in oncology: Analytic challenges and recommendations.
+
+**Segal, B. D.** Towards replicability with confidence intervals for the exceedance probability. [arXiv:1803.03356](https://arxiv.org/abs/1803.03356).
+
 ### *Accepted*
 **Segal, B. D.**, Braun, T., Gonzalez, R., and Elliott, M. R. (2019). Tests of matrix structure for construct validation. Psychometrika, 84(1), 65-83. [doi.org/10.1007/s11336-018-9647-4](https://doi.org/10.1007/s11336-018-9647-4). (open-access [view-only version](https://rdcu.be/bb49z)).
 
@@ -17,29 +24,25 @@ Burgard, S. A., Lin, K. Y., **Segal, B. D.**, Elliott, M. R., and Seelye, S. S. 
 
 **Segal, B. D.**, Braun, T., Elliott, M. R. and Jiang, H. (2018). Fast approximation of small p-values in permutation tests by partitioning the permutations. Biometrics, 74(1), 196-206. [doi:10.1111/biom.12731](http://dx.doi.org/10.1111/biom.12731).
 
-### *Submitted*
-**Segal, B. D.** Towards replicability with confidence intervals for the exceedance probability. [arXiv:1803.03356](https://arxiv.org/abs/1803.03356).
-
-Bennette, C. S., **Segal, B. D.**, Miksad, R. A., Bellomo, L. P., Nussbaum, N. C., Sarkar, S., Tucker, M., Schrag, D., Capra, W. B., Whipple, S., Abernethy, A. P. Use of a curated electronic health records database to create external control arms for cancer clinical trials.
-
-Bennette, C. S., **Segal, B. D.**, Miksad, R. A., Bellomo, L. P., Nussbaum, N. C., Sarkar, S., Tucker, M., Curtis, M., Basu, A., Schrag, D., Capra, W. B., Whipple, S., Abernethy, A. P. Generating external control arms using real-world data in oncology: Analytic challenges and recommendations.
-
-### *In preparation*
-Duren, D. L., **Segal, B. D.**, Elliott, M. R., Tosi, L., Sherwood, R. J., and Jepsen, K. J. Are human bones adapting to a new normal?
 
 ## Talks and posters
+Upcoming roundtable: "Case studies in the use of real world evidence to improve regulatory decision making." ASA biopharmaceutical section regulatory-industry workshop, Sep 2019.
 
-Contributed talk: "Exceedance probability for parameter estimates." JSM, July 2018.
+Upcoming poster: "Test of matrix structure for construct validation." American psychological association conference, Aug 2019.
 
-Invited talk: "P-splines with an l1 penalty for repeated measures." Statistical learning and data science/nonparametric statistics conference, June 2018.
+Upcoming speed session (poster/talk): "Quantifying the number of events borrowed from external data in hybrid control arms." JSM, Jul 2019.
 
-Contributed poster (winner of best poster from Biostatistics department): "Tests of matrix structure for construct validation." Michigan Student Symposium for Interdisciplinary Statistical Sciences (MSSISS), Mar 2017.
+Talk: "Exceedance probability for parameter estimates." JSM, July 2018.
 
-Contributed poster: "P-splines with an l1 penalty for repeated measures." ENAR, Mar 2017.
+Talk: "P-splines with an l1 penalty for repeated measures." Statistical learning and data science/nonparametric statistics conference, June 2018.
 
-Contributed talk (winner of travel award): Fast approximation of small p-values in permutation tests by partitioning the permutation space." JSM Biometrics section student paper awards session, Aug 2016.
+Poster (winner of best poster from Biostatistics department): "Tests of matrix structure for construct validation." Michigan Student Symposium for Interdisciplinary Statistical Sciences (MSSISS), Mar 2017.
 
-Contributed poster: "Fast approximation of small p-values in permutation tests by partitioning the permutation space." ENAR, Mar 2016.
+Poster: "P-splines with an l1 penalty for repeated measures." ENAR, Mar 2017.
+
+Talk (winner of travel award): Fast approximation of small p-values in permutation tests by partitioning the permutation space." JSM Biometrics section student paper awards session, Aug 2016.
+
+Poster: "Fast approximation of small p-values in permutation tests by partitioning the permutation space." ENAR, Mar 2016.
 
 ## Technical reports
 
