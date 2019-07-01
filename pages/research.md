@@ -28,9 +28,9 @@ Burgard, S. A., Lin, K. Y., **Segal, B. D.**, Elliott, M. R., and Seelye, S. S. 
 ## Talks and posters
 Upcoming roundtable: "Case studies in the use of real world evidence to improve regulatory decision making." ASA biopharmaceutical section regulatory-industry workshop, Sep 2019.
 
-Upcoming poster: "Test of matrix structure for construct validation." American psychological association conference, Aug 2019.
+Upcoming poster: "Tests of matrix structure for construct validation." American psychological association conference, Aug 2019.
 
-Upcoming speed session (poster/talk): "Quantifying the number of events borrowed from external data in hybrid control arms." JSM, Jul 2019.
+Upcoming speed session (talk and poster): "Quantifying the number of events borrowed from external data in hybrid control arms." JSM, Jul 2019.
 
 Talk: "Exceedance probability for parameter estimates." JSM, July 2018.
 
