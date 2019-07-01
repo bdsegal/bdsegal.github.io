@@ -32,9 +32,9 @@ Upcoming poster: "Tests of matrix structure for construct validation." American 
 
 Upcoming speed session (talk and poster): "Quantifying the number of events borrowed from external data in hybrid control arms." JSM, Jul 2019.
 
-Talk: "Exceedance probability for parameter estimates." JSM, July 2018.
+Talk: "Exceedance probability for parameter estimates." JSM, Jul 2018.
 
-Talk: "P-splines with an l1 penalty for repeated measures." Statistical learning and data science/nonparametric statistics conference, June 2018.
+Talk: "P-splines with an l1 penalty for repeated measures." Statistical learning and data science/nonparametric statistics conference, Jun 2018.
 
 Poster (winner of best poster from Biostatistics department): "Tests of matrix structure for construct validation." Michigan Student Symposium for Interdisciplinary Statistical Sciences (MSSISS), Mar 2017.
 
