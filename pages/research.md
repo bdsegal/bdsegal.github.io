@@ -7,6 +7,8 @@ description: research
 ## Publications
 
 ### *Under review*
+Backenroth, D., **Segal, B. D.**, Snider, J., Haimson, J., Meropol, N. J., Baxi. S. Development and validation of a prognostic score for cancer patients based on structured data from electronic health records.
+
 Bennette, C. S., **Segal, B. D.**, Miksad, R. A., Bellomo, L. P., Nussbaum, N. C., Sarkar, S., Tucker, M., Schrag, D., Capra, W. B., Whipple, S., Abernethy, A. P. Use of a curated electronic health records database to create external control arms for cancer clinical trials.
 
 Bennette, C. S., **Segal, B. D.**, Miksad, R. A., Bellomo, L. P., Nussbaum, N. C., Sarkar, S., Tucker, M., Curtis, M., Basu, A., Schrag, D., Capra, W. B., Whipple, S., Abernethy, A. P. Generating external control arms using real-world data in oncology: Analytic challenges and recommendations.
