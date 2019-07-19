@@ -6,7 +6,7 @@ description: software
 
 ## R packages
 
-[matrixStrucTest](https://cran.r-project.org/web/packages/matrixStrucTest/index.html): Tests symmetric matrices for block-diagonal structure under the null of exchangeable off-diagonal elements. Based on a permutation test with Hubert's Gamma and a t-statistic.
+[matrixStrucTest](https://CRAN.R-project.org/package=matrixStrucTest): Tests symmetric matrices for block-diagonal structure under the null of exchangeable off-diagonal elements. Based on a permutation test with Hubert's Gamma and a t-statistic.
 
 [fastPerm](https://github.com/bdsegal/fastPerm): Quickly approximates small permutation p-values for the difference and ratio of means.
 
