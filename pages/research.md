@@ -13,10 +13,10 @@ Bennette, C. S., **Segal, B. D.**, Miksad, R. A., Bellomo, L. P., Nussbaum, N. C
 
 Bennette, C. S., **Segal, B. D.**, Miksad, R. A., Bellomo, L. P., Nussbaum, N. C., Sarkar, S., Tucker, M., Curtis, M., Basu, A., Schrag, D., Capra, W. B., Whipple, S., Abernethy, A. P. Generating external control arms using real-world data in oncology: Analytic challenges and recommendations.
 
-**Segal, B. D.** Towards replicability with confidence intervals for the exceedance probability.
-
 ### *Accepted*
-**Segal, B. D.**, Braun, T., Gonzalez, R., and Elliott, M. R. (2019). Tests of matrix structure for construct validation. Psychometrika, 84(1), 65-83. [doi.org/10.1007/s11336-018-9647-4](https://doi.org/10.1007/s11336-018-9647-4). (open-access [view-only version](https://rdcu.be/bb49z)).
+**Segal, B. D.** (2019). Towards replicability with confidence intervals for the exceedance probability. To appear in The American Statistician. [arXiv:1803.03356](https://arxiv.org/abs/1803.03356).
+
+**Segal, B. D.**, Braun, T., Gonzalez, R., and Elliott, M. R. (2019). Tests of matrix structure for construct validation. Psychometrika, 84(1), 65-83. [doi.org/10.1007/s11336-018-9647-4](https://doi.org/10.1007/s11336-018-9647-4). [[open access version](https://rdcu.be/bb49z)].
 
 **Segal, B. D.**, Elliott M., Braun T., and Jiang, H. (2018).  P-splines with an l1 penalty for repeated measures. Electronic Journal of Statistics. 12(2), 3554-3600. [doi.org/10.1214/18-EJS1487](https://doi.org/10.1214/18-EJS1487)
 
@@ -28,9 +28,13 @@ Burgard, S. A., Lin, K. Y., **Segal, B. D.**, Elliott, M. R., and Seelye, S. S. 
 
 
 ## Talks and posters
-Upcoming roundtable: "Case studies in the use of real world evidence to improve regulatory decision making." ASA biopharmaceutical section regulatory-industry workshop, Sep 2019.
+Roundtable: "Case studies in the use of real world evidence to improve regulatory decision making." ASA biopharmaceutical section regulatory-industry workshop, Sep 2019.
 
-Upcoming speed session (talk and poster): "Quantifying the number of events borrowed from external data in hybrid control arms." JSM, Jul 2019.
+Poster: "Tests of matrix structure for construct validation." American psychological association conference, Aug 2019.
+
+Talk: "Complex data in, nuanced answers out: Lessons learned analyzing electronic health record data in oncology." JSM, Jul 2019.
+
+Speed session (talk and poster): "Quantifying the number of events borrowed from external data in hybrid control arms." JSM, Jul 2019.
 
 Talk: "Exceedance probability for parameter estimates." JSM, Jul 2018.
 
