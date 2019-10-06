@@ -36,6 +36,8 @@ Talk: "Complex data in, nuanced answers out: Lessons learned analyzing electroni
 
 Speed session (talk and poster): "Quantifying the number of events borrowed from external data in hybrid control arms." JSM, Jul 2019.
 
+Talk: "Biostatistics and Flatiron Health: Harnessing the power of real world data through quantitative methods for cancer treatment, access, and care." University of Michigan symposium on big data, human health and statistics, Jul 2019.
+
 Talk: "Exceedance probability for parameter estimates." JSM, Jul 2018.
 
 Talk: "P-splines with an l1 penalty for repeated measures." Statistical learning and data science/nonparametric statistics conference, Jun 2018.
