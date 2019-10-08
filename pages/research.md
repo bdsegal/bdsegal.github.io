@@ -14,7 +14,7 @@ Bennette, C. S., **Segal, B. D.**, Miksad, R. A., Bellomo, L. P., Nussbaum, N. C
 Bennette, C. S., **Segal, B. D.**, Miksad, R. A., Bellomo, L. P., Nussbaum, N. C., Sarkar, S., Tucker, M., Curtis, M., Basu, A., Schrag, D., Capra, W. B., Whipple, S., Abernethy, A. P. Generating external control arms using real-world data in oncology: Analytic challenges and recommendations.
 
 ### *Accepted*
-**Segal, B. D.** (2019). Towards replicability with confidence intervals for the exceedance probability. To appear in The American Statistician. [arXiv:1803.03356](https://arxiv.org/abs/1803.03356).
+**Segal, B. D.** (2019). Towards replicability with confidence intervals for the exceedance probability. To appear in The American Statistician.
 
 **Segal, B. D.**, Braun, T., Gonzalez, R., and Elliott, M. R. (2019). Tests of matrix structure for construct validation. Psychometrika, 84(1), 65-83. [doi.org/10.1007/s11336-018-9647-4](https://doi.org/10.1007/s11336-018-9647-4). [[open access version](https://rdcu.be/bb49z)].
 
