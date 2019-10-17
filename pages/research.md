@@ -6,14 +6,6 @@ description: research
 
 ## Publications
 
-### *Under review*
-Backenroth, D., **Segal, B. D.**, Snider, J., Haimson, J., Meropol, N. J., Baxi. S. Development and validation of a prognostic score for cancer patients based on structured data from electronic health records.
-
-Bennette, C. S., **Segal, B. D.**, Miksad, R. A., Bellomo, L. P., Nussbaum, N. C., Sarkar, S., Tucker, M., Schrag, D., Capra, W. B., Whipple, S., Abernethy, A. P. Use of a curated electronic health records database to create external control arms for cancer clinical trials.
-
-Bennette, C. S., **Segal, B. D.**, Miksad, R. A., Bellomo, L. P., Nussbaum, N. C., Sarkar, S., Tucker, M., Curtis, M., Basu, A., Schrag, D., Capra, W. B., Whipple, S., Abernethy, A. P. Generating external control arms using real-world data in oncology: Analytic challenges and recommendations.
-
-### *Accepted*
 **Segal, B. D.** (2019). Towards replicability with confidence intervals for the exceedance probability. To appear in The American Statistician.
 
 **Segal, B. D.**, Braun, T., Gonzalez, R., and Elliott, M. R. (2019). Tests of matrix structure for construct validation. Psychometrika, 84(1), 65-83. [doi.org/10.1007/s11336-018-9647-4](https://doi.org/10.1007/s11336-018-9647-4). [[open access version](https://rdcu.be/bb49z)].
@@ -25,7 +17,6 @@ Burgard, S. A., Lin, K. Y., **Segal, B. D.**, Elliott, M. R., and Seelye, S. S. 
 **Segal, B. D.**, Bennette, C. S. (2018). Re: "Transportability of trial results using inverse odds of sampling weights." American Journal of Epidemiology. [doi.org/10.1093/aje/kwy190](https://doi.org/10.1093/aje/kwy190).
 
 **Segal, B. D.**, Braun, T., Elliott, M. R. and Jiang, H. (2018). Fast approximation of small p-values in permutation tests by partitioning the permutations. Biometrics, 74(1), 196-206. [doi:10.1111/biom.12731](http://dx.doi.org/10.1111/biom.12731).
-
 
 ## Talks and posters
 Roundtable: "Case studies in the use of real world evidence to improve regulatory decision making." ASA biopharmaceutical section regulatory-industry workshop, Sep 2019.
