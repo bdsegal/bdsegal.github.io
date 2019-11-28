@@ -6,7 +6,7 @@ description: research
 
 ## Publications
 
-**Segal, B. D.** (2019). Towards replicability with confidence intervals for the exceedance probability. To appear in The American Statistician.
+**Segal, B. D.** (2019). Toward replicability with confidence intervals for the exceedance probability. The American Statistician. [doi.org/10.1080/00031305.2019.1678521](https://www.tandfonline.com/eprint/SUPYJD7NHZMHMNNH5VHU/full?target=10.1080/00031305.2019.1678521)
 
 **Segal, B. D.**, Braun, T., Gonzalez, R., and Elliott, M. R. (2019). Tests of matrix structure for construct validation. Psychometrika, 84(1), 65-83. [doi.org/10.1007/s11336-018-9647-4](https://doi.org/10.1007/s11336-018-9647-4). [[open access version](https://rdcu.be/bb49z)].
 
