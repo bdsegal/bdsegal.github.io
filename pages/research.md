@@ -6,15 +6,15 @@ description: research
 
 ## Publications
 
-**Segal, B. D.** (2019). Toward replicability with confidence intervals for the exceedance probability. The American Statistician. [doi.org/10.1080/00031305.2019.1678521](https://www.tandfonline.com/eprint/SUPYJD7NHZMHMNNH5VHU/full?target=10.1080/00031305.2019.1678521)
+**Segal, B. D.** (2019). Toward replicability with confidence intervals for the exceedance probability. The American Statistician. [doi:10.1080/00031305.2019.1678521](https://www.tandfonline.com/eprint/SUPYJD7NHZMHMNNH5VHU/full?target=10.1080/00031305.2019.1678521).
 
-**Segal, B. D.**, Braun, T., Gonzalez, R., and Elliott, M. R. (2019). Tests of matrix structure for construct validation. Psychometrika, 84(1), 65-83. [doi.org/10.1007/s11336-018-9647-4](https://doi.org/10.1007/s11336-018-9647-4). [[open access version](https://rdcu.be/bb49z)].
+**Segal, B. D.**, Braun, T., Gonzalez, R., and Elliott, M. R. (2019). Tests of matrix structure for construct validation. Psychometrika, 84(1), 65-83. [doi:10.1007/s11336-018-9647-4](https://doi.org/10.1007/s11336-018-9647-4). [[open access version](https://rdcu.be/bb49z)].
 
-**Segal, B. D.**, Elliott M., Braun T., and Jiang, H. (2018).  P-splines with an l1 penalty for repeated measures. Electronic Journal of Statistics. 12(2), 3554-3600. [doi.org/10.1214/18-EJS1487](https://doi.org/10.1214/18-EJS1487)
+**Segal, B. D.**, Elliott M., Braun T., and Jiang, H. (2018).  P-splines with an l1 penalty for repeated measures. Electronic Journal of Statistics. 12(2), 3554-3600. [doi:10.1214/18-EJS1487](https://doi.org/10.1214/18-EJS1487).
 
-Burgard, S. A., Lin, K. Y., **Segal, B. D.**, Elliott, M. R., and Seelye, S. S. (2018). Stability and change in health risk behavior profiles of U.S. adults. Journal of Gerontology: Series B. [doi.org/10.1093/geronb/gby088](https://doi.org/10.1093/geronb/gby088).
+Burgard, S. A., Lin, K. Y., **Segal, B. D.**, Elliott, M. R., and Seelye, S. S. (2018). Stability and change in health risk behavior profiles of U.S. adults. Journal of Gerontology: Series B. [doi:10.1093/geronb/gby088](https://doi.org/10.1093/geronb/gby088).
 
-**Segal, B. D.**, Bennette, C. S. (2018). Re: "Transportability of trial results using inverse odds of sampling weights." American Journal of Epidemiology. [doi.org/10.1093/aje/kwy190](https://doi.org/10.1093/aje/kwy190).
+**Segal, B. D.**, Bennette, C. S. (2018). Re: "Transportability of trial results using inverse odds of sampling weights." American Journal of Epidemiology. [doi:10.1093/aje/kwy190](https://doi.org/10.1093/aje/kwy190).
 
 **Segal, B. D.**, Braun, T., Elliott, M. R. and Jiang, H. (2018). Fast approximation of small p-values in permutation tests by partitioning the permutations. Biometrics, 74(1), 196-206. [doi:10.1111/biom.12731](http://dx.doi.org/10.1111/biom.12731).
 
