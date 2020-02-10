@@ -2,7 +2,7 @@
 layout: frontpage
 title: Brian D. Segal
 description: Brian Segal is a quantitative scientist at Flatiron Health.
-keywords: Brian D. Segal, statistics, biostatistics
+keywords: Brian D. Segal, Statistics, Biostatistics
 ---
 
 <div class="container">

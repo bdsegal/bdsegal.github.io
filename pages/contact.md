@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-description: contact info
+description: Contact Information
 ---
 
 <div class="container">
