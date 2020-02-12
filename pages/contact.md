@@ -8,7 +8,7 @@ description: Contact Information
     <div class="row-fluid">
         <div class="span5">
             Brian D. Segal<br/>
-            Quantitative Scientist<br/>
+            Senior Quantitative Scientist<br/>
             <a href="http://www.flatiron.com"> Flatiron Health</a><br/>
             Email: <code>bsegal@flatiron.com</code><br/>
             Phone: 202-870-4049<br/>
