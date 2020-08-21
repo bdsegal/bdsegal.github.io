@@ -19,6 +19,8 @@ Burgard, S. A., Lin, K. Y., **Segal, B. D.**, Elliott, M. R., and Seelye, S. S. 
 **Segal, B. D.**, Braun, T., Elliott, M. R. and Jiang, H. (2018). Fast approximation of small p-values in permutation tests by partitioning the permutations. Biometrics, 74(1), 196-206. [doi:10.1111/biom.12731](http://dx.doi.org/10.1111/biom.12731).
 
 ## Talks and posters
+Talk: "Hybrid control arms with RWD for cancer trials: Why, what, when, and how." JSM, Aug 2020.
+
 Roundtable: "Case studies in the use of real world evidence to improve regulatory decision making." ASA biopharmaceutical section regulatory-industry workshop, Sep 2019.
 
 Poster: "Tests of matrix structure for construct validation." American psychological association conference, Aug 2019.
