@@ -45,6 +45,8 @@ Poster: "Fast approximation of small p-values in permutation tests by partitioni
 
 ## Technical reports
 
+Segal, B. D., Tan, W. K. A note on the amount of information borrowed from external data in hybrid controlled trials with time-to-event outcomes. [https://arxiv.org/abs/2010.00433](https://arxiv.org/abs/2010.00433), Oct 2020.
+
 Amarakoon, S., Smith, J., **Segal, B. D.** Lithium-ion batteries and nanotechnology for electric vehicles: life cycle assessment study. U.S. Environmental Protection Agency, Office of Pollution Prevention and Toxics, Design for the Environment Program. EPA 744-R-08-001, Apr 2012.
 
 Socolof, M., Amarakoon, S., Smith, J., **Segal, B. D.** Life-cycle assessment of plenum space communication cable. The Society of the Plastics Industry, Oct 2009.
