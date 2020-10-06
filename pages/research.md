@@ -6,6 +6,12 @@ description: Research
 
 ## Publications
 
+_Submitted_
+
+**Segal, B. D.**, Curtis, M. D., Baxi, S. S., Capra, W. B, Garrett-Mayer, D., Hobbs, B. P., Hong, D. S., Hubbard, R. A., Tan, W. K., Zhu, J., Sarkar, S., Samant, M. Hybrid control arms with RWD for cancer trials: Why, what, when, and how.
+
+_Accepted_
+
 **Segal, B. D.** (2019). Toward replicability with confidence intervals for the exceedance probability. The American Statistician. [doi:10.1080/00031305.2019.1678521](https://www.tandfonline.com/eprint/SUPYJD7NHZMHMNNH5VHU/full?target=10.1080/00031305.2019.1678521).
 
 **Segal, B. D.**, Braun, T., Gonzalez, R., and Elliott, M. R. (2019). Tests of matrix structure for construct validation. Psychometrika, 84(1), 65-83. [doi:10.1007/s11336-018-9647-4](https://doi.org/10.1007/s11336-018-9647-4) [[open access version](https://rdcu.be/bb49z)].
@@ -45,7 +51,7 @@ Poster: "Fast approximation of small p-values in permutation tests by partitioni
 
 ## Technical reports
 
-Segal, B. D., Tan, W. K. A note on the amount of information borrowed from external data in hybrid controlled trials with time-to-event outcomes. [https://arxiv.org/abs/2010.00433](https://arxiv.org/abs/2010.00433), Oct 2020.
+**Segal, B. D.**, Tan, W. K. A note on the amount of information borrowed from external data in hybrid controlled trials with time-to-event outcomes. [https://arxiv.org/abs/2010.00433](https://arxiv.org/abs/2010.00433), Oct 2020.
 
 Amarakoon, S., Smith, J., **Segal, B. D.** Lithium-ion batteries and nanotechnology for electric vehicles: life cycle assessment study. U.S. Environmental Protection Agency, Office of Pollution Prevention and Toxics, Design for the Environment Program. EPA 744-R-08-001, Apr 2012.
 
