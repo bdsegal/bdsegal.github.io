@@ -14,6 +14,6 @@ description: Software
 
 [gammaDist](https://github.com/bdsegal/gammaDist): Computes the distribution and density of the difference of two gamma random variables under the null of equal distributions. Includes a saddlepoint approximation to the density.
 
-**In development**
+**_In development_**
 
 [psplinesl1](https://github.com/bdsegal/psplinesl1): Fits additive mixed models with P-splines and an l1 penalty using alternating direction method of multipliers and cross validation.

@@ -6,11 +6,11 @@ description: Research
 
 ## Publications
 
-_Submitted_
+**_Submitted_**
 
 **Segal, B. D.**, Curtis, M. D., Baxi, S. S., Capra, W. B, Garrett-Mayer, D., Hobbs, B. P., Hong, D. S., Hubbard, R. A., Tan, W. K., Zhu, J., Sarkar, S., Samant, M. Hybrid control arms with RWD for cancer trials: Why, what, when, and how.
 
-_Accepted_
+**_Accepted_**
 
 **Segal, B. D.** (2019). Toward replicability with confidence intervals for the exceedance probability. The American Statistician. [doi:10.1080/00031305.2019.1678521](https://www.tandfonline.com/eprint/SUPYJD7NHZMHMNNH5VHU/full?target=10.1080/00031305.2019.1678521).
 
