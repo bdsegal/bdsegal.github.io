@@ -55,8 +55,6 @@ Poster: "Fast approximation of small p-values in permutation tests by partitioni
 
 Amarakoon, S., Smith, J., **Segal, B. D.** Lithium-ion batteries and nanotechnology for electric vehicles: life cycle assessment study. U.S. Environmental Protection Agency, Office of Pollution Prevention and Toxics, Design for the Environment Program. EPA 744-R-08-001, Apr 2012.
 
-Socolof, M., Amarakoon, S., Smith, J., **Segal, B. D.** Life-cycle assessment of plenum space communication cable. The Society of the Plastics Industry, Oct 2009.
-
 Greco, S., Smith, J., **Segal, B. D.**, Post, E., Lynch, M., Hattis, D. Evaluating methods for quantifying human noncancer health risks: case study application, draft report. US EPA, Mar 2009.
 
 Greco, S., Acquaye, A., Peak, K., **Segal, B. D.**, Rast, M. Framework for estimating costs and benefits associated with changes in the reference dose at federal facility hazardous waste sites. US EPA, Oct 2008.
