@@ -15,7 +15,7 @@ keywords: Brian D. Segal, Statistics, Biostatistics
 
         <div class="span2">
         <a href="{{ BASE_PATH }}/bdsegal.jpg">
-            <img src="{{ BASE_PATH }}//bdsegal.jpg"
+            <img src="{{ BASE_PATH }}/bdsegal.jpg"
                   title="Brian Segal" alt="Brian Segal"/></a>
         </div>
     </div>
