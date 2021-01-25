@@ -1,16 +1,16 @@
 ---
 layout: frontpage
 title: Brian D. Segal
-description: Brian Segal is a senior quantitative scientist at Flatiron Health.
+description: Brian Segal is a Senior Statistician at Indigo Ag.
 keywords: Brian D. Segal, Statistics, Biostatistics
 ---
 
 <div class="container">
     <div class="row-fluid">
         <div class="span7">
-            I am a senior quantitative scientist at <a href = "http://www.flatiron.com"> Flatiron Health</a>. Prior to joining Flatiron, I completed a PhD in <a href = "https://sph.umich.edu/biostat/"> Biostatistics at the University of Michigan</a>, advised by <a href = "https://sph.umich.edu/faculty-profiles/elliott-michael.html"> Michael Elliott</a>, <a href = "https://sph.umich.edu/faculty-profiles/braun-thomas.html"> Tom Braun</a>, and <a href = "http://www-personal.umich.edu/~jianghui/"> Hui Jiang</a>.<br>
+            I am a senior statistician on the carbon quantification team at <a href = "http://www.indigoag.com"> Indigo Ag </a>. Prior to joining Indigo, I worked at <a href = "http://www.flatiron.com"> Flatiron Health </a> and completed a PhD in <a href = "https://sph.umich.edu/biostat/"> Biostatistics at the University of Michigan</a>, advised by <a href = "https://sph.umich.edu/faculty-profiles/elliott-michael.html"> Michael Elliott</a>, <a href = "https://sph.umich.edu/faculty-profiles/braun-thomas.html"> Tom Braun</a>, and <a href = "http://www-personal.umich.edu/~jianghui/"> Hui Jiang</a>.<br>
             <br>
-            At Flatiron, I am currently focused on using data from electronic health records to complement and enhance clinical trials in oncology and to conduct observational studies. In my past roles, I have developed statistical methods for genetics and psychology, collaborated on social science research, and worked in the environmental field. You can find more information on my <a href = "{{ BASE_PATH }}/pages/research.html">research page</a> or by viewing my <a href = "{{ BASE_PATH }}/bdsegal_cv.pdf"> CV</a>.
+            At Indigo, I am focused on quantifying the climate benefits of regenerative farming practices with the aim of issuing carbon credits to farmers for sequestering carbon in the soil and reducing greenhouse gas emissions. In previous roles, I have focused on using electronic health records to complement and enhance clinical trials in oncology and to conduct observational studies. I have also developed statistical methods for genetics and psychology, collaborated on social science research, and worked on environmental policies and programs. You can find more information on my <a href = "{{ BASE_PATH }}/pages/research.html">research page</a> or by viewing my <a href = "{{ BASE_PATH }}/bdsegal_cv.pdf"> CV</a>.
         </div>
 
         <div class="span2">
