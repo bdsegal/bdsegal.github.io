@@ -8,7 +8,7 @@ description: Contact Information
     <div class="row-fluid">
         <div class="span5">
             Brian D. Segal<br/>
-            Senior Statistician, Carbon Quantification<br/>
+            Senior Statistician, Carbon<br/>
             <a href="http://www.indigoag.com"> Indigo Ag</a><br/>
             Email: <code>bsegal@indigoag.com</code><br/>
             github: <a href="https://github.com/bdsegal">github.com/bdsegal</a><br/>
