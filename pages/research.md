@@ -6,6 +6,8 @@ description: Research
 
 ## Publications
 
+Tan, W. K., **Segal, B. D.**, Curtis, M. D., Baxi, S. S., Capra, W. B., Garrett-Mayer, E., Hobbs, B. P., Hong, D.S., Hubbard, R. A., Zhu, J., Sarkar, S., Samant, M. (2022). Augmenting control arms with real-world data for cancer trials: Hybrid control arm methods and considerations. Contemporary Clinical Trials Communications, 30. [href{https://doi.org/10.1016/j.conctc.2022.101000](https://doi.org/10.1016/j.conctc.2022.101000).
+
 Sondhi, A., **Segal, B.**, Snider, J., Humblet, O., and McCusker, M. (2021). Bayesian additional evidence for decision making under small sample uncertainty. BMC medical research methodology, 21(1), 1-8. [https://doi.org/10.1186/s12874-021-01432-5](https://doi.org/10.1186/s12874-021-01432-5).
 
 Tan, K., Bryan, J., **Segal, B.**, Bellomo, L., Nussbaum, N., Tucker, M., Torres, A. Z., Bennette, C., Capra, W., Curtis, M. and Miksad, R. A. (2021), Emulating Control Arms for Cancer Clinical Trials Using External Cohorts Created From Electronic Health Record-Derived Real-World Data. Clin Pharmacol Ther. [https://doi.org/10.1002/cpt.2351](https://doi.org/10.1002/cpt.2351).
