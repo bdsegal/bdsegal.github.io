@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 title: Brian D. Segal
-description: Brian Segal is a Senior Statistician at Indigo Ag.
+description: Brian Segal is a Staff Data Scientist at Indigo Ag.
 keywords: Brian D. Segal, Statistics, Biostatistics
 ---
 
