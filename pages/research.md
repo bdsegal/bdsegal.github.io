@@ -32,6 +32,7 @@ Burgard, S. A., Lin, K. Y., **Segal, B. D.**, Elliott, M. R., and Seelye, S. S. 
 
 ## Talks, Posters, and Roundtables
 Talk: "Carbon quantification deep dive." Indigo Ag webinar, Mar 2023.
+
 Talk: "Carbon quantification deep dive." Indigo Ag science and policy forum, Oct 2022.
 
 Talk: "Hybrid control arms with RWD for cancer trials: Why, what, when, and how." JSM, Aug 2020.
