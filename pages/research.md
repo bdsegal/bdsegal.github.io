@@ -31,6 +31,9 @@ Burgard, S. A., Lin, K. Y., **Segal, B. D.**, Elliott, M. R., and Seelye, S. S. 
 **Segal, B. D.**, Brummitt, C. D. Addressing incomplete soil sample data in soil enrichment protocol projects. US Patent 11,592,431. Feb 28, 2023.
 
 ## Talks, Posters, and Roundtables
+Talk: "Carbon quantification deep dive." Indigo Ag webinar, Mar 2023.
+Talk: "Carbon quantification deep dive." Indigo Ag science and policy forum, Oct 2022.
+
 Talk: "Hybrid control arms with RWD for cancer trials: Why, what, when, and how." JSM, Aug 2020.
 
 Roundtable: "Case studies in the use of real world evidence to improve regulatory decision making." ASA biopharmaceutical section regulatory-industry workshop, Sep 2019.
