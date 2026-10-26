@@ -11,6 +11,9 @@ keywords: Brian D. Segal, Statistics, Biostatistics
             I am a staff data scientist at <a href = "https://www.terion.ai"> Terion</a> (formerly <a href = "http://www.indigoag.com"> Indigo Ag</a>). Prior to joining Indigo, I worked at <a href = "http://www.flatiron.com"> Flatiron Health </a> and completed a PhD in <a href = "https://sph.umich.edu/biostat/"> Biostatistics at the University of Michigan</a>, advised by <a href = "https://sph.umich.edu/faculty-profiles/elliott-michael.html"> Michael Elliott</a>, <a href = "https://sph.umich.edu/faculty-profiles/braun-thomas.html"> Tom Braun</a>, and <a href = "http://www-personal.umich.edu/~jianghui/"> Hui Jiang</a>.<br>
             <br>
             At Terion, I work with interdisciplinary teams to quantify the climate benefits of regenerative farming practices, and to reduce the upstream (scope 3) emissions of consumer packaged goods companies. In previous roles, I have focused on using electronic health records to complement clinical trials in oncology and to conduct observational studies. I have also developed statistical methods for genetics and psychology, collaborated on social science research, and worked on environmental policies and programs. You can find more information in my <a href = "{{ BASE_PATH }}/bdsegal_cv.pdf">CV</a>.
+            <br>
+            <br>
+            Older tutorials and workshop notes are <a href = "{{ BASE_PATH }}/pages/tutorials.html">here</a>.
         </div>
 
         <div class="span2">
