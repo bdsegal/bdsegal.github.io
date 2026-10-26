@@ -9,8 +9,8 @@ description: Contact Information
         <div class="span5">
             Brian D. Segal, PhD<br/>
             Staff Data Scientist<br/>
-            <a href="http://www.indigoag.com"> Indigo Ag</a><br/>
-            Email: <code>bsegal@indigoag.com</code><br/>
+            <a href="https://www.terion.ai">Terion</a><br/>
+            Email: <code>bsegal@terion.ai</code><br/>
             github: <a href="https://github.com/bdsegal">github.com/bdsegal</a><br/>
             linkedin: <a href="https://www.linkedin.com/in/bdsegal">www.linkedin.com/in/bdsegal</a>
         </div>
