@@ -55,3 +55,14 @@ td.right {
 h1, h2, h3, h4 {
     color: black;
 }
+
+/* Home page: on narrow screens show the photo first, at a modest size */
+@media (max-width: 767px) {
+    .home-row {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .home-row .span2 img {
+        max-width: 180px;
+    }
+}

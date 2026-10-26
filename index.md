@@ -1,16 +1,19 @@
 ---
 layout: frontpage
 title: Brian D. Segal
-description: Brian Segal is a Staff Data Scientist at Indigo Ag.
-keywords: Brian D. Segal, Statistics, Biostatistics
+description: Brian D. Segal is a staff data scientist at Terion working on quantifying the climate benefits of sustainable farming practices, with a background in statistics and oncology real-world evidence.
+keywords: Brian D. Segal, Statistics, Biostatistics, Data Science
 ---
 
 <div class="container">
-    <div class="row-fluid">
+    <div class="row-fluid home-row">
         <div class="span7">
             I am a staff data scientist at <a href = "https://www.terion.ai"> Terion</a> (formerly <a href = "http://www.indigoag.com"> Indigo Ag</a>). Prior to joining Indigo, I worked at <a href = "http://www.flatiron.com"> Flatiron Health </a> and completed a PhD in <a href = "https://sph.umich.edu/biostat/"> Biostatistics at the University of Michigan</a>, advised by <a href = "https://sph.umich.edu/faculty-profiles/elliott-michael.html"> Michael Elliott</a>, <a href = "https://sph.umich.edu/faculty-profiles/braun-thomas.html"> Tom Braun</a>, and <a href = "http://www-personal.umich.edu/~jianghui/"> Hui Jiang</a>.<br>
             <br>
-            At Terion, I work with interdisciplinary teams to quantify the climate benefits of regenerative farming practices, and to reduce the upstream (scope 3) emissions of consumer packaged goods companies. In previous roles, I have focused on using electronic health records to complement clinical trials in oncology and to conduct observational studies. I have also developed statistical methods for genetics and psychology, collaborated on social science research, and worked on environmental policies and programs. You can find more information in my <a href = "{{ BASE_PATH }}/bdsegal_cv.pdf">CV</a>.
+            At Terion, I work with interdisciplinary teams to quantify the climate benefits of sustainable farming practices, and to reduce the upstream (scope 3) emissions of consumer packaged goods companies. In previous roles, I have focused on using electronic health records to complement clinical trials in oncology and to conduct observational studies. I have also developed statistical methods for genetics and psychology, collaborated on social science research, and worked on environmental policies and programs. You can find more information in my <a href = "{{ BASE_PATH }}/bdsegal_cv.pdf">CV</a>.
+            <br>
+            <br>
+            <i class="fa-solid fa-envelope" aria-hidden="true"></i> <code>bsegal@terion.ai</code> | <a href="https://github.com/bdsegal"><i class="fa-brands fa-github" aria-hidden="true"></i> GitHub</a> | <a href="https://www.linkedin.com/in/bdsegal"><i class="fa-brands fa-linkedin" aria-hidden="true"></i> LinkedIn</a>
             <br>
             <br>
             Older tutorials and workshop notes are <a href = "{{ BASE_PATH }}/pages/tutorials.html">here</a>.
